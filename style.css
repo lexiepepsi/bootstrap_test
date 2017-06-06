@@ -1,0 +1,12 @@
+.col-md-3 {
+	background-color: aliceblue;
+	font-size: 30px;
+	text-align: center;
+}
+
+.head {
+	text-align: center;
+	background-color: pink;
+	color: hotpink;
+	font-size: 40px;
+}
